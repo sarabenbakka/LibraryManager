@@ -1,0 +1,10 @@
+1;L'Alchimiste;Paulo Coelho;1988;15.0
+2;Le Petit Prince;Antoine de Saint-Exupéry;1943;12.5
+3;1984;George Orwell;1949;18.0
+4;Notre-Dame de Paris;Victor Hugo;1831;20.0
+5;Les Misérables;Victor Hugo;1862;22.5
+6;Le Comte de Monte-Cristo;Alexandre Dumas;1844;19.0
+7;Madame Bovary;Gustave Flaubert;1857;16.5
+8;Le Rouge et le Noir;Stendhal;1830;17.0
+9;Germinal;Émile Zola;1885;21.0
+10;Candide;Voltaire;1759;14.0
